@@ -11,5 +11,3 @@ python = "*"
 django = "==3.0.5"
 jupyter = "*"
 
-[requires]
-python_version = "3.8.2"
